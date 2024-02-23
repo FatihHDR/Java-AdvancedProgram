@@ -1,6 +1,6 @@
 /**
  *
- * author @fatih
+ * @author fatih
  */
 
 import java.util.InputMismatchException;
